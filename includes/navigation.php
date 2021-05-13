@@ -1,33 +1,20 @@
-<nav class="navbar navbar-expand-xxl navbar-dark bg-dark" aria-label="Seventh navbar example">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">Expand at xxl</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExampleXxl" aria-controls="navbarsExampleXxl" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarsExampleXxl">
-        <ul class="navbar-nav me-auto mb-2 mb-xl-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="dropdownXxl" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-            <ul class="dropdown-menu" aria-labelledby="dropdownXxl">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
-            </ul>
-          </li>
-        </ul>
-        <form>
-          <input class="form-control" type="text" placeholder="Search" aria-label="Search">
-        </form>
+<header class="blog-header py-3 mx-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-12 text-center">
+        <a href="#" class="blog-header-logo link-primary" style="text-decoration:none; font-size: 2rem;" >Anemosina Art</a>
       </div>
     </div>
-  </nav>
+  </header>
+
+
+  <div class="col-6 nav-scroller py-1 m-2 m-auto">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 link-primary" href="#">Начало</a>
+      <a class="p-2 link-primary" href="#">Цел</a>
+      <a class="p-2 link-primary" href="#">Каузи</a>
+      <a class="p-2 link-primary" href="#">Минали събития</a>
+      <a class="p-2 link-primary" href="#">Друго</a>
+      <a class="p-2 link-primary" href="#">Блог</a>
+      <a class="p-2 link-primary" href="#">Контакти</a>
+    </nav>
+  </div>
