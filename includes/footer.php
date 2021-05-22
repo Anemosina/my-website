@@ -27,9 +27,10 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Полезни линкове</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./iniciativi.php">Инициативи</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./causes.php">Каузи</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Блог</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="./contacts.php">Контакти</a></li>
             </ul>
           </div>
 
@@ -55,7 +56,7 @@
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="https://www.facebook.com/teodora.petrova.3194" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.linkedin.com/in/teodora-ahkozidou-bb0a3775/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        <a href="https://github.com/Anemosina" class="github"><i class="bx bxl-github"></i></i></a>
+        <a href="https://github.com/Anemosina" class="github"><i class="bx bxl-github"></i></a>
       </div>
     </div>
   </footer><!-- End Footer -->

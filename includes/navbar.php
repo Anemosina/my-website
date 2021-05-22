@@ -25,11 +25,11 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="./index.php">Начало</a></li>
-          <li><a class="nav-link scrollto" href="#">Инициативи</a></li>
-          <li><a class="nav-link scrollto" href="#">Каузи</a></li>
+          <li><a class="nav-link scrollto" href="./iniciativi.php">Инициативи</a></li>
+          <li><a class="nav-link scrollto" href="./causes.php">Каузи</a></li>
 
-          <li><a class="nav-link scrollto" href="#">История</a></li>
-          <li><a class="nav-link scrollto" href="#">Проекти</a></li>
+          <li><a class="nav-link scrollto" href="./me.php">За мен</a></li>
+          <li><a class="nav-link scrollto" href="./projects.php">Проекти</a></li>
           <li><a class="nav-link scrollto" href="#">Блог</a></li>
           <li class="dropdown"><a href="#"><span>Полезно</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -38,7 +38,7 @@
               <li><a href="#">Книги</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Контакти</a></li>
+          <li><a class="nav-link scrollto" href="./contacts.php">Контакти</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

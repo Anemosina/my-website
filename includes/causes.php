@@ -39,8 +39,8 @@
               <img src="./Images/children.jpg" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Помощ на деца</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Виж повече</a>
+                <p class="card-text">Обяснението тук е просто: защото го заслужават!</p>
+                <a href="./causes.php" class="btn btn-primary">Виж повече</a>
               </div>
             </div>
           </div>
@@ -50,8 +50,8 @@
               <img src="./Images/animals.jpeg" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Помощ на животни</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Виж повече</a>
+                <p class="card-text">Те ни дават безграничната любовт с която разполагат!</p>
+                <a href="./causes.php" class="btn btn-primary">Виж повече</a>
               </div>
             </div>
           </div>
@@ -61,8 +61,8 @@
               <img src="./Images/nature.jpeg" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">Природа</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Виж повече</a>
+                <p class="card-text">Наградата: повече чист въздух за всички!</p>
+                <a href="./causes.php" class="btn btn-primary">Виж повече</a>
               </div>
             </div>
           </div>
