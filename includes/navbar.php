@@ -30,7 +30,7 @@
 
           <li><a class="nav-link scrollto" href="./me.php">За мен</a></li>
           <li><a class="nav-link scrollto" href="./projects.php">Проекти</a></li>
-          <li><a class="nav-link scrollto" href="#">Блог</a></li>
+          <li><a class="nav-link scrollto" href="https://blog.anemosina-art.com/">Блог</a></li>
           <li class="dropdown"><a href="#"><span>Полезно</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Самоусъвършенстване</a></li>
