@@ -9,28 +9,26 @@
         <div class="col-lg-3 col-md-6 footer-links">
             <h4>Предстоящи събития</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Минали събития</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Благотворителен Базар</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Засаждане на дървета</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Храна за животните в приют</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Полезни линкове</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="./iniciativi.php">Инициативи</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="./causes.php">Каузи</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Блог</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://blog.anemosina-art.com/">Блог</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="./contacts.php">Контакти</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Сайтове, които харесвам</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://bgreiki.eu/">Рейки</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.stefibozhilova.com/">Стефи Божилова</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://sharo.bg/kauzata/">Шаро</a></li>
             </ul>
           </div>
 
